@@ -1,0 +1,22 @@
+Plotted to 'C:\Users\zumit\Documents\.Desktop\高専\S研\回路\kadai1\kadai1-F_Cu.gbr'.
+Plotted to 'C:\Users\zumit\Documents\.Desktop\高専\S研\回路\kadai1\kadai1-B_Cu.gbr'.
+Plotted to 'C:\Users\zumit\Documents\.Desktop\高専\S研\回路\kadai1\kadai1-F_Paste.gbr'.
+Plotted to 'C:\Users\zumit\Documents\.Desktop\高専\S研\回路\kadai1\kadai1-B_Paste.gbr'.
+Plotted to 'C:\Users\zumit\Documents\.Desktop\高専\S研\回路\kadai1\kadai1-F_Silkscreen.gbr'.
+Plotted to 'C:\Users\zumit\Documents\.Desktop\高専\S研\回路\kadai1\kadai1-B_Silkscreen.gbr'.
+Plotted to 'C:\Users\zumit\Documents\.Desktop\高専\S研\回路\kadai1\kadai1-F_Mask.gbr'.
+Plotted to 'C:\Users\zumit\Documents\.Desktop\高専\S研\回路\kadai1\kadai1-B_Mask.gbr'.
+Plotted to 'C:\Users\zumit\Documents\.Desktop\高専\S研\回路\kadai1\kadai1-Edge_Cuts.gbr'.
+ガーバー ジョブ ファイル 'C:\Users\zumit\Documents\.Desktop\高専\S研\回路\kadai1\kadai1-job.gbrjob' を作成しました。
+Plotted to 'C:\Users\zumit\Documents\.Desktop\高専\S研\回路\kadai1\kadai1-F_Cu.gbr'.
+Plotted to 'C:\Users\zumit\Documents\.Desktop\高専\S研\回路\kadai1\kadai1-B_Cu.gbr'.
+Plotted to 'C:\Users\zumit\Documents\.Desktop\高専\S研\回路\kadai1\kadai1-F_Paste.gbr'.
+Plotted to 'C:\Users\zumit\Documents\.Desktop\高専\S研\回路\kadai1\kadai1-B_Paste.gbr'.
+Plotted to 'C:\Users\zumit\Documents\.Desktop\高専\S研\回路\kadai1\kadai1-F_Silkscreen.gbr'.
+Plotted to 'C:\Users\zumit\Documents\.Desktop\高専\S研\回路\kadai1\kadai1-B_Silkscreen.gbr'.
+Plotted to 'C:\Users\zumit\Documents\.Desktop\高専\S研\回路\kadai1\kadai1-F_Mask.gbr'.
+Plotted to 'C:\Users\zumit\Documents\.Desktop\高専\S研\回路\kadai1\kadai1-B_Mask.gbr'.
+Plotted to 'C:\Users\zumit\Documents\.Desktop\高専\S研\回路\kadai1\kadai1-Edge_Cuts.gbr'.
+ガーバー ジョブ ファイル 'C:\Users\zumit\Documents\.Desktop\高専\S研\回路\kadai1\kadai1-job.gbrjob' を作成しました。
+情報: 完了.
+情報: 完了.
